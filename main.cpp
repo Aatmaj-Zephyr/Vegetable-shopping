@@ -21,7 +21,7 @@ int main(){
 	fin.open("in.txt");
 	fout.open("list.txt");
 	hout.open("vegetable list.html");
-	hout<<"<html><body bgcolor=lime text=blue><h3 align=\"center\"> List of vegetables for A-1104 Rameshwar, Neelkanth heights</h3><table width=1000 height=150 align=\"center\" border=2><tr><th>Sr. No.</th><th>Item</th><th>Quantity</th></tr>";
+	hout<<"<html><body bgcolor=lime text=blue><h3 align=\"center\"> List of vegetables for My address </h3><table width=1000 height=150 align=\"center\" border=2><tr><th>Sr. No.</th><th>Item</th><th>Quantity</th></tr>";
 	int k=0;
 	while(fin.eof()==0){	
     fin.getline(word,20);
