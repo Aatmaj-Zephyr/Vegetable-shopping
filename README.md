@@ -3,3 +3,8 @@ This is a practice c++ program to make a html website for vegetable shopping lis
 
 
 Here a C++ program writes to an html file.
+
+
+____
+
+This is just a practise project so the HTMl page looks very boaring
