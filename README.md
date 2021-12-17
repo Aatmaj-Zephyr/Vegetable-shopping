@@ -7,4 +7,4 @@ Here a C++ program writes to an html file.
 
 ____
 
-This is just a practise project so the HTMl page looks very boaring
+This is just a practise project so the HTML page looks very boaring
