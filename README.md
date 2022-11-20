@@ -1,10 +1,2 @@
-# Vegetable-shopping
-This is a practice c++ program to make a html website for vegetable shopping list.
-
-
-Here a C++ program writes to an html file.
-
-
-____
-
-This is just a practise project so the HTML page looks very boaring
+## Vegetable shopping Assistant for Super moms.
+Recommend vegetables, remind of past orders and help select the right vegies for the family. No more sending photos of shopping list to vendors. This product makes a **Static HTML Webpage** which the Vegetable vendor can access! 
